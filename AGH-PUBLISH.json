@@ -1,0 +1,12 @@
+{
+  "plugin_id": "agh-free-search",
+  "package": "@yuhe520521/free-search",
+  "version": "0.1.1",
+  "display_name": "Free Search",
+  "display_name_zh": "Free Search",
+  "source_version": null,
+  "repository": "https://github.com/yuhe520521/agh-plugin-free-search",
+  "published_by": "AGH Hub pipeline",
+  "published_at": "2026-11-20T17:50:13.447Z",
+  "pipeline": "AGH Hub P4 → gh-publish"
+}
